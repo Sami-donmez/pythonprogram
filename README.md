@@ -1,2 +1,2 @@
 # pythonprogram
-python faktöriyel,permutasyon,kombinasyon programı
+python faktöriyel,permutasyon,kombinasyon hesabı yapan console programı
